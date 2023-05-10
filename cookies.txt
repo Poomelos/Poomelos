@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+blablaland.co	TRUE	/	FALSE	1999999999	PHPSESSID	r87vplngugchghmco2eies7u03
+blablaland.co	TRUE	/	FALSE	1999999999	ddos	gudlevllqdrufiyh2cc5xqogkdan3hg3a5hyixolk5bmpxwu0rdyfrg0y2nunwoc
+

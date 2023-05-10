@@ -1,0 +1,30 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 10 May 2023 06:20:14 at https://blablaland.co/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://blablaland.co/ -O1 "C:\Users\LOUKILI Morad\Desktop\3H\bblco" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+06:21:21	Error: 	"Not Found" (404) at link https://blablaland.co/data/backgr/css/vers2/alpha/FFFFFF_50.png (from https://blablaland.co/data/backgr/css/vers2/_base.css)
+06:21:21	Error: 	"Not Found" (404) at link https://blablaland.co/data/backgr/css/vers2/menu/xtra/bonus_bbl.png (from https://blablaland.co/data/backgr/css/vers2/_base.css)
+06:21:21	Error: 	"Not Found" (404) at link https://blablaland.co/data/backgr/css/vers2/promo.png (from https://blablaland.co/data/backgr/css/vers2/_base.css)
+06:21:22	Error: 	"Not Found" (404) at link https://blablaland.co/data/backgr/css/btn_buy.png (from https://blablaland.co/data/backgr/css/site.css)
+06:21:22	Error: 	"Not Found" (404) at link https://blablaland.co/data/backgr/css/box_left.gif (from https://blablaland.co/data/backgr/css/site.css)
+06:21:22	Error: 	"Not Found" (404) at link https://blablaland.co/data/backgr/css/box_r.gif (from https://blablaland.co/data/backgr/css/site.css)
+06:21:22	Error: 	"Not Found" (404) at link https://blablaland.co/data/backgr/css/box_c.gif (from https://blablaland.co/data/backgr/css/site.css)
+06:21:22	Error: 	"Not Found" (404) at link https://blablaland.co/site/img/box/stitle_57.gif (from https://blablaland.co/data/backgr/css/site.css)
+06:21:22	Error: 	"Not Found" (404) at link https://blablaland.co/site/img/box/stitle_24.gif (from https://blablaland.co/data/backgr/css/site.css)
+06:21:58	Error: 	"Not Found" (404) at link https://blablaland.co/data/spacer.gif (from https://blablaland.co/site/mot_de_passe_perdu.php)
+06:21:58	Error: 	"Not Found" (404) at link https://blablaland.co/site/m0U8HrEfT.5U05VM4oO_DAC3NVnVKcz60DBy9tU91Lo-1683692434-0-AX65lFmhuK5MFW9sVqU6XoKzKdBQVbr0Lman2F0smxo/ (from https://blablaland.co/site/membres.php?p=36620)
+06:21:58	Error: 	"Not Found" (404) at link https://blablaland.co/forum/qocKJvsTtCnw0RzSxbm5DhPdMyI5wUZDI482V6uaN3M-1683692439-0-AQoInrDpsYTw95FrBAR/e1ugEg3FWFaGP6RUahyEdd4/ (from https://blablaland.co/forum/viewtopic.php?id=437)
+06:21:58	Error: 	"Not Found" (404) at link https://blablaland.co/site/wdhGdU7eGGioxhXWhllBHmKIvNZLj.8EZ3DlRRDh2HA-1683692440-0-ASJGoawPCeG2RQFewZdyBmqNz0PSj0/VmEU7o6jIx+U/ (from https://blablaland.co/site/membres.php?p=36788)
+06:21:58	Error: 	"Not Found" (404) at link https://blablaland.co/assets/js/map_color.g (from https://blablaland.co/assets/js/swf2js.js)
+06:22:14	Error: 	"Not Found" (404) at link https://blablaland.co/site/Na8_zhzTPcUPKTfaVYQK16p4.bbyO2Vpy9WT1U6fsj4-1683692499-0-AQzXHZMZLxozA/d6aV8rpysbGukpGH0sh3IjP9LrIej/ (from https://blablaland.co/site/connexion.php?root=/site/shop_skin.php?giveme=474&p=1)
+06:22:14	Error: 	"Not Found" (404) at link https://blablaland.co/site/x8QB.eI.IRgznig0oobQhkjzoYgKNVKyzI4WTcKMTZM-1683692511-0-AY3xOzrSQcbiOeXcJ5j5pz37nacMIq1E96fthp+I0Kb/ (from https://blablaland.co/site/shop_skin.php?gr=35)
+06:22:14	Error: 	"Not Found" (404) at link https://blablaland.co/data/swf/connexion.swf (from https://blablaland.co/assets/js/swf/connexion.js)
+06:22:14	Error: 	"Service Unavailable" (503) at link zagicien.com/swf2js.js?v=57 (from https://blablaland.co/assets/js/swf/connexion.js)
+06:22:14	Error: 	"Not Found" (404) at link https://blablaland.co/site/l19S4GBcDAUR6V8fmuPM10uVoftge7Mi4MpKMSytOvo-1683692525-0-AVj3/AP+9R/R2tZ5sEzupjYJzIfLo19lRBbAGwgU0fE/ (from https://blablaland.co/site/connexion.php?root=/site/shop_skin.php?giveme=375&gr=18)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 0 seconds : 424 links scanned, 404 files written (5578405 bytes overall) [3082261 bytes received at 25685 bytes/sec], 3778603 bytes transferred using HTTP compression in 274 files, ratio 23%, 42.6 requests per connection
+(19 errors, 0 warnings, 0 messages)
